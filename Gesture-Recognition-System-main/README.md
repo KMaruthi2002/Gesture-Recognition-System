@@ -50,9 +50,4 @@ The repository is organized as follows:
 
 - Python 3.x
 - Libraries: TensorFlow, Keras, OpenCV, scikit-learn, matplotlib, seaborn
-
-Feel free to customize and extend the code according to your requirements. For any issues or suggestions, please create an issue in the [repository](https://github.com/Sousannah/hand-gestures-recognition-and-segmentation-using-CNN-and-OpenCV).
-
 **Note: The trained ResNet models perform better than the CNN model**
-
-Happy coding! 🚀
